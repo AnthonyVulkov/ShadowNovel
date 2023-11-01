@@ -1,0 +1,2 @@
+# ShadowNovel
+Web novel reader
